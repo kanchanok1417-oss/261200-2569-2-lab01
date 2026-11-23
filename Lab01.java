@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Lab01 {
 
     static void insertionSort(int[] arr) {
         for (int i = 1; i < arr.length; i++) {
